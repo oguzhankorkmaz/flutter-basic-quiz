@@ -1,0 +1,24 @@
+{
+    "items": [
+        {
+            "question":"Türkiye kaç bölgeden oluşur",
+            "answers":["5","6","7","8"],
+            "correct_answer":"7"
+        },
+        {
+            "question":"2+2",
+            "answers":["3","4","5","1"],
+            "correct_answer":"4"
+        },
+        {
+            "question":"Doğru cevap hangisi",
+            "answers":["Yanlış","Yanlış","Yanlış","Doğru"],
+            "correct_answer":"Doğru"
+        },
+        {
+            "question":"Yanlış cevap hangisi",
+            "answers":["Yanlış","Doğru","Doğru","Doğru"],
+            "correct_answer":"Yanlış"
+        }
+    ]
+}
